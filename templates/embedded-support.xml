@@ -1,0 +1,5 @@
+<application>
+  <component name="EmbeddedDevelopment">
+    <option name="openOcdLocation" value="C:\msys64\mingw64\bin\openocd.exe" />
+  </component>
+</application>
